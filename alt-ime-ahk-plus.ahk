@@ -106,6 +106,7 @@
 *~PgDn::
     Return
 
+
 ; コロンとセミコロンを入れ替える
 $`;::Send `:
 $+`;::Send `;
@@ -118,6 +119,19 @@ $!+`;::Send !`;
 
 $^!`;::Send ^!`:
 $^!+`;::Send ^!`;
+
+
+; 上部メニューがアクティブになるのを抑制
+*~RShift::Send {Blind}{vk07}
+
+; 右 Shift 空打ちでアンダーバーを入力S
+RShift up::
+    if (A_PriorHotkey == "*~RShift")
+    {
+        Send, _
+    }
+    Return
+
 
 ; 上部メニューがアクティブになるのを抑制
 *~LAlt::Send {Blind}{vk07}
@@ -138,3 +152,4 @@ RAlt up::
         IME_SET(1)
     }
     Return
+
