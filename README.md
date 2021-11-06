@@ -11,7 +11,7 @@
 https://github.com/the6th/alt-and-shift-ime-ahk 本家のスクリプトを改良して下記の機能を追加しました。
 
 - コロンとセミコロンの入力をスイッチ
-- 右 Shift キーの空打ちでアンダーバーを入力
+- 右 Shift キーの空打ちでアンダーバーを入力（Mac-JIS likeに）
 
 
 ## 動作環境
