@@ -8,7 +8,7 @@
 - 右 Alt キーの空打ちで IME を「かな」に切り替え
 - Alt キーを押している間に他のキーを打つと通常の Alt キーとして動作
 
-[本家](https://github.com/karakaram/alt-ime-ahk)のスクリプトを改良して下記の機能を追加しました。
+[本家様](https://github.com/karakaram/alt-ime-ahk)のスクリプトを改良して下記の機能を追加しました。
 
 - コロンとセミコロンの入力をスイッチ
 - 右 Shift キーの空打ちでアンダーバーを入力（Mac-JIS likeに）
