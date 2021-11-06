@@ -20,7 +20,7 @@ https://github.com/the6th/alt-and-shift-ime-ahk 本家のスクリプトを改�
 
 ## 使い方
 
-[relaases](https://github.com/tealgreen0503/alt-ime-ahk-plus/releases) から alt-ime-ahk.zip をダウンロードして解凍し、alt-ime-ahk-plus.exe を好きな場所に置き、起動してください。 タスクトレイに常駐します。
+[releases](https://github.com/tealgreen0503/alt-ime-ahk-plus/releases) から alt-ime-ahk-plus.exe をダウンロードし、alt-ime-ahk-plus.exe を好きな場所に置き、起動してください。 タスクトレイに常駐します。
 
 終了する場合はタスクトレイのアイコンを右クリックし、「終了」をクリックしてください。
 
