@@ -124,7 +124,7 @@ $^!+`;::Send ^!`;
 ; 上部メニューがアクティブになるのを抑制
 *~RShift::Send {Blind}{vk07}
 
-; 右 Shift 空打ちでアンダーバーを入力S
+; 右 Shift 空打ちでアンダーバーを入力
 RShift up::
     if (A_PriorHotkey == "*~RShift")
     {
